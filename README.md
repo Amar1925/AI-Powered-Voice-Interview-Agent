@@ -19,12 +19,12 @@ The project integrates **speech recognition, text-to-speech, Generative AI, and 
 ---
 
 ## 📂 Project Structure
-├── app.py # Streamlit UI for AI Interview Agent
-├── enhanced_speech_handler.py # Speech Recognition + TTS Engine
-├── main.py # FastAPI backend for PDF summarization (Gemini)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .env # Environment variables (not committed)
+├── app.py # Streamlit UI for AI Interview Agent \
+├── enhanced_speech_handler.py # Speech Recognition + TTS Engine \
+├── main.py # FastAPI backend for PDF summarization (Gemini) \
+├── requirements.txt # Python dependencies \
+├── README.md # Project documentation \
+└── .env # Environment variables (not committed) \
 
 ---
 
