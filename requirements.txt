@@ -13,3 +13,5 @@ google-generativeai
 python-dotenv
 langgraph
 langchain-groq
+python-multipart
+
