@@ -76,3 +76,7 @@ GROQ_API_KEY=your_groq_api_key_here
 ```bash
 streamlit run app.py
 ```
+
+### Working Application should look like this
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/645af5ae-cb05-4213-96bc-970166e88cf0" />
+
