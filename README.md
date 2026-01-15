@@ -18,6 +18,10 @@ The project integrates **speech recognition, text-to-speech, Generative AI, and 
 
 ---
 
+> ⚠️ **Note:** Currently, the interview system supports **Plumber** and **Electrician** roles only.  
+> Additional job roles can be easily added in the future by extending the question database and scoring logic.
+
+
 ## 📂 Project Structure
 ├── app.py # Streamlit UI for AI Interview Agent \
 ├── enhanced_speech_handler.py # Speech Recognition + TTS Engine \
