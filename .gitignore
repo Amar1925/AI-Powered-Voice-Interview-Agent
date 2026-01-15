@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore everything
+*
+
+# But don't ignore these important files:
+!*.py
+!*.txt
+!.gitignore
+.env
+
