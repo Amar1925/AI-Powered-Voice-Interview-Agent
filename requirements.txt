@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+speechrecognition
+pyttsx3
+pyaudio
+pygame
+requests
+reportlab
+pandas
+langchain-community
+google-generativeai
+python-dotenv
+langgraph
+langchain-groq
